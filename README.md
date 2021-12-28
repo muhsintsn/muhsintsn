@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there I'm Muhsin 👋
 
-<!--
-**muhsintsn/muhsintsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently following an online training camp provided by CLARUSWAY
+- 🌱 I am currently learning data analytics and machine learning tools and algorithms
+- ⌘ I am willing to use machine learning algorithms to solve real life problems
+- 👯 I want to collaborate on open source
+- 💬 I am passionate about learning, collaborating and eager to share my knowledge
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/muhsintsn) 
+[![linkedin Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.linkedin.com/in/muhsin-tosun/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@muhsintsn1997)

@@ -14,4 +14,18 @@ Here are some ideas to get you started:
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-C13584?style=flat-quare&labelColor=bluelogo=linkedin&logoColor=blue&link=link)](https://www.linkedin.com/in/muhsin-tosun/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@muhsintsn1997)
 
+👨👩 Social
+Linkedin: VPA HackerRank website Tableau website
 
+
+💻 Python Libraries
+Numpy Pandas Matplotlib Seaborn SciPy
+
+💻 Data Visualization
+Pandas Matplotlib  Tableau
+
+💻 Languages
+Python MySQL SQLite SQLserver HTML
+
+⚙ Tools
+gitHub   Google Sheets 

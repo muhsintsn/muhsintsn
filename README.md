@@ -19,7 +19,9 @@ Linkedin: VPA HackerRank website Tableau website
 
 
 💻 Python Libraries
-Numpy Pandas Matplotlib Seaborn SciPy
+![image](https://user-images.githubusercontent.com/86917683/147608610-bc485c44-9302-421b-8c0e-ac0e4350787b.png)
+![image](https://user-images.githubusercontent.com/86917683/147608651-cb7e9abb-1ec8-4c77-ae75-52e680cde517.png)
+![image](https://user-images.githubusercontent.com/86917683/147608661-5716c7b6-702a-49e3-843f-f1f61b3caec2.png)
 
 💻 Data Visualization
 Pandas Matplotlib  Tableau
@@ -29,3 +31,7 @@ Python MySQL SQLite SQLserver HTML
 
 ⚙ Tools
 gitHub   Google Sheets 
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)

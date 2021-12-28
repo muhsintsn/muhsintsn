@@ -30,7 +30,7 @@ Pandas Matplotlib  Tableau
 
 ⚙ Tools
 
-<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/css.png" width="75" high= "50">  <img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/excel.png" width="75"> <img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6efgithub.png" width="50">
+<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/css.png" width="45" heigth= "50">  <img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/excel.png" width="75"> <img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6efgithub.png" width="50">
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=muhsintsn&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=muhsintsn&show_icons=true&theme=radical)

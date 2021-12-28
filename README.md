@@ -25,12 +25,14 @@ https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901a
 Pandas Matplotlib  Tableau
 
 💻 Languages
-<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/html.png" width="100">
+
+<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/html.png" width="50">
 
 ⚙ Tools
-<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/css.png" width="100pix">
-<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/excel.png" width="100">
-<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/github.png" width="100">
+
+<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/css.png" width="50pix">
+<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/excel.png" width="50">
+<img src="https://github.com/muhsintsn/github.png" width="50">
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=muhsintsn&show_icons=true&theme=gradient) 

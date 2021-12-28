@@ -19,17 +19,18 @@ https://public.tableau.com/app/profile/muhsin5544#!/?newProfile=&activeTab=0
 
 
 💻 Python Libraries
-
+https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/numpy.png
 
 💻 Data Visualization
 Pandas Matplotlib  Tableau
 
 💻 Languages
-Python MySQL SQLite SQLserver HTML
+https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/html.png
 
 ⚙ Tools
-gitHub   Google Sheets 
-
+https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/css.png
+https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/excel.png
+https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/github.png
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=muhsintsn&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=muhsintsn&show_icons=true&theme=radical)

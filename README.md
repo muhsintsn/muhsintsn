@@ -28,7 +28,7 @@ Pandas Matplotlib  Tableau
 <img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/html.png" width="auto">
 
 ⚙ Tools
-<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/css.png" width="auto">
+<img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/css.png" width="20pix">
 <img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/excel.png" width="auto">
 <img src="https://github.com/muhsintsn/muhsintsn/blob/ac1161d12060d464dbdc45d5aaa2c565901aa6ef/github.png" width="auto">
 

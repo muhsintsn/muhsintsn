@@ -19,7 +19,7 @@ https://public.tableau.com/app/profile/muhsin5544#!/?newProfile=&activeTab=0
 
 
 💻 Python Libraries
-
+<img src="gorsel-link" width="auto">
 
 💻 Data Visualization
 Pandas Matplotlib  Tableau

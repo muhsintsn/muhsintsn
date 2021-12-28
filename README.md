@@ -19,7 +19,7 @@ Linkedin: VPA HackerRank website Tableau website
 
 
 💻 Python Libraries
-![image](https://user-images.githubusercontent.com/86917683/147608610-bc485c44-9302-421b-8c0e-ac0e4350787b.png)
+https://camo.githubusercontent.com/bb7c2b8c732065da2b9d6cee6266ae2e07fb1188921e551948517bcb9e14503a/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f7374617469632f6c6f676f2d776964652d6c6967687462672e737667
 ![image](https://user-images.githubusercontent.com/86917683/147608651-cb7e9abb-1ec8-4c77-ae75-52e680cde517.png)
 ![image](https://user-images.githubusercontent.com/86917683/147608661-5716c7b6-702a-49e3-843f-f1f61b3caec2.png)
 

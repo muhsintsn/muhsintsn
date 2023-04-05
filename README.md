@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://github.com/muhsintsn/muhsintsn/blob/main/tableu.png" height="25" alt="youtube logo"  />
-  
+    
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
@@ -55,6 +54,7 @@ Here are some ideas to get you started:
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+<img src="https://github.com/muhsintsn/muhsintsn/blob/main/tableu.png" height="25" alt="youtube logo"  />
   
 </div>
 

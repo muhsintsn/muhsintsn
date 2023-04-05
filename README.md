@@ -57,6 +57,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/muhsintsn/muhsintsn/blob/main/tableu.png" height="25" alt="youtube logo"  />
   
   <img src="https://github.com/muhsintsn/muhsintsn/blob/main/scikit-learn-logo.png" height="25" alt="youtube logo"  />
+  <img src="https://github.com/muhsintsn/muhsintsn/blob/main/tensor.svg" height="25" alt="youtube logo"  />
+  
   
 </div>
 

@@ -97,6 +97,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/muhsintsn/muhsintsn/blob/main/sql%20server.png" height="25" alt="ql%20serverlogo"  />
   <img src="https://github.com/muhsintsn/muhsintsn/blob/main/tensor.svg" height="25" alt="tensor logo"  />
   <img src="https://github.com/muhsintsn/muhsintsn/blob/main/tableu.png" height="25" alt="tableu logo"  />
+  <img src="https://github.com/muhsintsn/muhsintsn/blob/main/numpy.png" />
+
+  
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>

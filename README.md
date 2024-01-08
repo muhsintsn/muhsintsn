@@ -1,8 +1,3 @@
-###
-
-#######################################
-
-
 ### Hi there I'm Muhsin 👋
 ###  Data Analyst/ Data Scientist
 

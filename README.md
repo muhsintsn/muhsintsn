@@ -33,6 +33,13 @@ Here are some ideas to get you started:
      
 </div>
 
+<div align="center">
+  
+  <img src="https://github.com/muhsintsn/mtgit/graphs/contributorsuser=muhsintsn&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
+     
+</div>
+https://github.com/muhsintsn/mtgit/graphs/contributors
+
   
 
 ###

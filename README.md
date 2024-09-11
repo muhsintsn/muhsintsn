@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhsintsn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=muhsintsn&theme=dark&hide_border=false&include_all_commits=false&count_private=false](https://github.com/muhsintsn/muhsintsn/blob/main/pandas.png)" />
  
   <img src="https://streak-stats.demolab.com?user=muhsintsn&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
      

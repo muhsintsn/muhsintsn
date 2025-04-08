@@ -66,6 +66,12 @@ https://photos.app.goo.gl/KPzfQdHwhPrQSUdt5
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhsintsn.muhsintsn&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -101,5 +107,13 @@ https://photos.app.goo.gl/KPzfQdHwhPrQSUdt5
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=muhsintsn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ###
